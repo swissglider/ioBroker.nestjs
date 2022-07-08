@@ -24,7 +24,9 @@ class Nestjs extends utils.Adapter {
      * Is called when databases are connected and adapter received configuration.
      */
     private async onReady(): Promise<void> {
+        this.log.warn('onReady1');
         bootstrap(this);
+        this.log.warn('onReady1');
     }
 
     /**
