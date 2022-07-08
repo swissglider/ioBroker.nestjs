@@ -112,7 +112,7 @@ Please refer to the [`dev-server` documentation](https://github.com/ioBroker/dev
     Placeholder for the next version (at the beginning of the line):
     ### **WORK IN PROGRESS**
 -->
-### **WORK IN PROGRESS**
+### 2.0.1-0 (2022-07-08)
 
 -   (Swissglider) new version starts with more functions
 -   
